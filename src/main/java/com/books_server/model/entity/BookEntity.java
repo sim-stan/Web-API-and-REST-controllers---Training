@@ -62,4 +62,6 @@ public class BookEntity {
                 ", author=" + (author != null ? author.getName() : null) +
                 '}';
     }
+
+
 }
